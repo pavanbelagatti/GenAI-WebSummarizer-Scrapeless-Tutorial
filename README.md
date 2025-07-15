@@ -1,4 +1,5 @@
 ## GenAI-Powered Web Summarizer Using Scrapeless
+![GenAI Pipeline](https://i.postimg.cc/k53NbDnW/gena-pioeline.png)
 
 We’re building a Web Summarizer AI Agent that does the following:
 - Extracts article links from any homepage (TechCrunch, The Verge, etc.)
